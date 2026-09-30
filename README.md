@@ -1,3 +1,7 @@
+The repository and blog post will undergo a significant revision soon.
+
+---
+
 # PCSS: Per-Example Calibrated Sigmoid Scaler
 
 Official repository for **PCSS (Per-Example Calibrated Sigmoid Scaler)**.
